@@ -106,7 +106,8 @@ h2, h3 {
   background: #70ABAF;
   width: 550px;
   height: 491px;
-  margin: 825px 615px;
+  left: 645px;
+  bottom: 60px;
   padding: 10px; 
   border-radius: 20px; 
   box-shadow: 0 3px 5px #32292F;
@@ -116,7 +117,7 @@ h2, h3 {
 .interests-section {
   background: #CADAD7; 
   width: 550px; 
-  margin: 650px 15px 20px; 
+  margin: 650px 15px 30px; 
   padding: 10px; 
   border-radius: 20px; 
   box-shadow: 0 3px 5px #32292F;
