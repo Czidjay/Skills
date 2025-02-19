@@ -60,6 +60,15 @@ h2, h3 {
   position: absolute;
 }
 
+.subtitle-border {
+  background: #F0F7F4; 
+  color: #32292F; 
+  letter-spacing: 1px; 
+  display: inline; 
+  padding: 2px 30px; 
+  border-radius: 5px;
+}
+
 .skills-img {
   background: #70ABAF;
   width: 1150px;
